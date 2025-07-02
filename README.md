@@ -44,3 +44,13 @@ The project uses small, realistic datasets (such as sales, customers, and orders
    ```bash
    git clone https://github.com/opapapeter/pandas-data-manipulation.git
    cd pandas-data-manipulation
+   ```
+2. Install dependancies   
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Open Jupyter notebook
+   ```bash
+   jupyter notebook
+   ```
+4. Navigate to the ```notebooks/``` folder and run the notebooks step by step.       
