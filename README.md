@@ -28,7 +28,6 @@ This project demonstrates the use of core **pandas** functions to perform variou
     │   ├── grouping-aggregating.ipynb
     │   ├── data-cleaning.ipynb
     │   └── exporting-data.ipynb
-    ├── images/                  # Optional: images/screenshots for documentation
     ├── README.md                # Project overview and guide
     └── requirements.txt         # Python and pandas dependencies
 
@@ -43,5 +42,5 @@ The project uses small, realistic datasets (such as sales, customers, and orders
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/opapapeter/pandas-data-manipulation.git
+   git clone [https://github.com/opapapeter/pandas-data-manipulation.git]
    cd pandas-data-manipulation
