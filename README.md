@@ -42,5 +42,5 @@ The project uses small, realistic datasets (such as sales, customers, and orders
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/opapapeter/pandas-data-manipulation.git]
+   git clone https://github.com/opapapeter/pandas-data-manipulation.git
    cd pandas-data-manipulation
